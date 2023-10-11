@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-10-11T15:06:06.102Z</updated>
+  <updated>2023-10-11T17:26:58.839Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,9 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>毕业论文</title>
+    <link href="http://example.com/2023/10/12/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%AE%BA%E6%96%87/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87/"/>
+    <id>http://example.com/2023/10/12/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%AE%BA%E6%96%87/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87/</id>
+    <published>2023-10-11T17:26:31.643Z</published>
+    <updated>2023-10-11T17:26:58.839Z</updated>
+    
+    
+    
+    
+    <category term="学习方面" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/"/>
+    
+    <category term="论文" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%AE%BA%E6%96%87/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>学习航线</title>
-    <link href="http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/%E6%9C%AA%E5%91%BD%E5%90%8D/"/>
-    <id>http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/%E6%9C%AA%E5%91%BD%E5%90%8D/</id>
+    <link href="http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/%E6%9D%B0%E6%96%87%E6%96%AF/"/>
+    <id>http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/%E6%9D%B0%E6%96%87%E6%96%AF/</id>
     <published>2023-10-11T15:02:43.503Z</published>
     <updated>2023-10-11T15:06:06.102Z</updated>
     
@@ -166,17 +183,14 @@
     <link href="http://example.com/2023/10/11/%E6%8A%80%E8%83%BD/%E2%80%9Dmacos%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD%E2%80%9C/"/>
     <id>http://example.com/2023/10/11/%E6%8A%80%E8%83%BD/%E2%80%9Dmacos%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD%E2%80%9C/</id>
     <published>2023-10-11T11:25:38.000Z</published>
-    <updated>2023-10-11T14:42:22.038Z</updated>
+    <updated>2023-10-11T17:25:12.625Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a></li></ul></blockquote>]]></content>
+    <content type="html"><![CDATA[<p>word：https:&#x2F;&#x2F;<a href="http://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.53.21091200_Updater.pkg">officecdn.microsoft.com&#x2F;pr&#x2F;C1297A47-86C4-4C1F-97FA-950631F94777&#x2F;MacAutoupdate&#x2F;Microsoft_Word_16.53.21091200_Updater.pkg</a></p><p>Excel：https:&#x2F;&#x2F;<a href="http://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.53.21091200_Updater.pkg">officecdn.microsoft.com&#x2F;pr&#x2F;C1297A47-86C4-4C1F-97FA-950631F94777&#x2F;MacAutoupdate&#x2F;Microsoft_Excel_16.53.21091200_Updater.pkg</a></p><p>powerpoint：https:&#x2F;&#x2F;<a href="http://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.53.21091200_Updater.pkg">officecdn.microsoft.com&#x2F;pr&#x2F;C1297A47-86C4-4C1F-97FA-950631F94777&#x2F;MacAutoupdate&#x2F;Microsoft_PowerPoint_16.53.21091200_Updater.pkg</a></p><p>dowine <a href="https://vk.com/doc781359414_668360040">Прямая ссылка на скачивание</a></p><p>lightroom <a href="https://vk.com/s/v1/doc/pgwwv63H6cozHEP5jLdsjHCDdGyrl3pETFMxhWMzO47NdU0lghY">https://vk.com/s/v1/doc/pgwwv63H6cozHEP5jLdsjHCDdGyrl3pETFMxhWMzO47NdU0lghY</a></p><p>Keep0724 office</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/l</summary>
+    <summary type="html">&lt;p&gt;word：https:&amp;#x2F;&amp;#x2F;&lt;a href=&quot;http://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.53</summary>
       
     
     
@@ -216,9 +230,9 @@
     <link href="http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/%E8%88%AA%E7%BA%BF%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3%E8%A6%81%E6%B1%82/"/>
     <id>http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/%E8%88%AA%E7%BA%BF%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3%E8%A6%81%E6%B1%82/</id>
     <published>2023-10-11T05:18:35.000Z</published>
-    <updated>2023-10-11T14:42:15.513Z</updated>
+    <updated>2023-10-11T17:26:07.580Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="6个部分，航空法规，人的行为能力气象，领航，操作系统，无线电通讯"><a href="#6个部分，航空法规，人的行为能力气象，领航，操作系统，无线电通讯" class="headerlink" title="6个部分，航空法规，人的行为能力气象，领航，操作系统，无线电通讯"></a>6个部分，航空法规，人的行为能力气象，领航，操作系统，无线电通讯</h2><ul><li>航空法规25分</li><li>Sub-lists are made by indenting 2 spaces:<ul><li>Marker character change forces new list start:<ul><li>Ac tristique libero volutpat at</li></ul><ul><li>Facilisis in pretium nisl aliquet</li></ul><ul><li>Nulla volutpat aliquam velit</li></ul></li></ul></li><li>Very easy!</li></ul><p>有序</p><ol><li><p>Lorem ipsum dolor sit amet</p></li><li><p>Consectetur adipiscing elit</p></li><li><p>Integer molestie lorem at massa</p></li><li><p>You can use sequential numbers…</p></li><li><p>…or keep all the numbers as <code>1.</code></p></li></ol><p>Start numbering with offset:</p><ol start="57"><li>foo</li><li>bar</li></ol>]]></content>
+    <content type="html"><![CDATA[<h2 id="6个部分，航空法规，人的行为能力气象，领航，操作系统，无线电通讯"><a href="#6个部分，航空法规，人的行为能力气象，领航，操作系统，无线电通讯" class="headerlink" title="6个部分，航空法规，人的行为能力气象，领航，操作系统，无线电通讯"></a>6个部分，航空法规，人的行为能力气象，领航，操作系统，无线电通讯</h2>]]></content>
     
     
       

@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2023/10/12/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%AE%BA%E6%96%87/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87/</loc>
+    
+    <lastmod>2023-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/%E8%88%AA%E7%BA%BF%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3%E8%A6%81%E6%B1%82/</loc>
+    
+    <lastmod>2023-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/10/11/%E6%8A%80%E8%83%BD/%E2%80%9Dmacos%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD%E2%80%9C/</loc>
+    
+    <lastmod>2023-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2023/10/11/%E9%9F%B3%E4%B9%90/musicplayer/</loc>
     
     <lastmod>2023-10-11</lastmod>
@@ -29,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/%E6%9C%AA%E5%91%BD%E5%90%8D/</loc>
+    <loc>http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/%E6%9D%B0%E6%96%87%E6%96%AF/</loc>
     
     <lastmod>2023-10-11</lastmod>
     
@@ -39,15 +66,6 @@
   
   <url>
     <loc>http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/%E8%88%AA%E7%BA%BF1/</loc>
-    
-    <lastmod>2023-10-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2023/10/11/%E6%8A%80%E8%83%BD/%E2%80%9Dmacos%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD%E2%80%9C/</loc>
     
     <lastmod>2023-10-11</lastmod>
     
@@ -66,15 +84,6 @@
   
   <url>
     <loc>http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%AE%BA%E6%96%87/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/</loc>
-    
-    <lastmod>2023-10-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/%E8%88%AA%E7%BA%BF%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3%E8%A6%81%E6%B1%82/</loc>
     
     <lastmod>2023-10-11</lastmod>
     
