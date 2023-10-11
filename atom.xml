@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-10-11T15:06:06.102Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学习航线</title>
+    <link href="http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/%E6%9C%AA%E5%91%BD%E5%90%8D/"/>
+    <id>http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/%E6%9C%AA%E5%91%BD%E5%90%8D/</id>
+    <published>2023-10-11T15:02:43.503Z</published>
+    <updated>2023-10-11T15:06:06.102Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="杰文斯悖论"><a href="#杰文斯悖论" class="headerlink" title="杰文斯悖论"></a>杰文斯悖论</h1><h2 id="Literature-Note"><a href="#Literature-Note" class="headerlink" title="Literature Note"></a>Literature Note</h2><p>提高能源的使用效率并不会减少能源的使用量, 如果想要节约能源那么久需要配合其他类型的政府干预来减少能源的使用.</p><h2 id="Reference-Note"><a href="#Reference-Note" class="headerlink" title="Reference Note"></a>Reference Note</h2><blockquote><p>1865年，英国经济学家威廉·斯坦利·杰文斯（William Stanley Jevons）观察到，提高煤炭的使用效率，会导致煤炭消费量的增加。 他因而提出，节省资源的技术，只会带来资源使用量的增加。 由于这与人们的直觉相反，所以称为杰文斯悖论。</p></blockquote><blockquote><p>杰文斯悖论有时被认为意味着，节约能源的努力是徒劳的。提高化石能源的使用效率，反而会加快化石能源的耗尽速度。 这说明，可持续能源政策不能只依赖节能技术的进步，而必须配合其他类型的政府干预措施，限制能源的使用。</p></blockquote><h2 id="Relavant-Note"><a href="#Relavant-Note" class="headerlink" title="Relavant Note"></a>Relavant Note</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;杰文斯悖论&quot;&gt;&lt;a href=&quot;#杰文斯悖论&quot; class=&quot;headerlink&quot; title=&quot;杰文斯悖论&quot;&gt;&lt;/a&gt;杰文斯悖论&lt;/h1&gt;&lt;h2 id=&quot;Literature-Note&quot;&gt;&lt;a href=&quot;#Literature-Note&quot; class=&quot;he</summary>
+      
+    
+    
+    
+    <category term="学习方面" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/"/>
+    
+    <category term="航线" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/"/>
+    
+    
+    <category term="Permanent" scheme="http://example.com/tags/Permanent/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>就是哦</title>
+    <link href="http://example.com/2023/10/11/%E7%AC%94%E8%AE%B0%E6%9C%AC/%E4%B8%8D%E7%9F%A5%E9%81%93%E6%98%AF%E5%86%99%E6%97%A5%E8%AE%B0%E8%BF%98%E6%98%AF%E9%9A%8F%E4%BE%BF%E5%86%99%E9%9A%8F%E7%AC%94/"/>
+    <id>http://example.com/2023/10/11/%E7%AC%94%E8%AE%B0%E6%9C%AC/%E4%B8%8D%E7%9F%A5%E9%81%93%E6%98%AF%E5%86%99%E6%97%A5%E8%AE%B0%E8%BF%98%E6%98%AF%E9%9A%8F%E4%BE%BF%E5%86%99%E9%9A%8F%E7%AC%94/</id>
+    <published>2023-10-11T14:31:47.970Z</published>
+    <updated>2023-10-11T14:32:07.146Z</updated>
+    
+    
+    
+    
+    <category term="笔记本" scheme="http://example.com/categories/%E7%AC%94%E8%AE%B0%E6%9C%AC/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>musicplayer</title>
+    <link href="http://example.com/2023/10/11/%E9%9F%B3%E4%B9%90/musicplayer/"/>
+    <id>http://example.com/2023/10/11/%E9%9F%B3%E4%B9%90/musicplayer/</id>
+    <published>2023-10-11T14:24:51.000Z</published>
+    <updated>2023-10-11T15:26:58.777Z</updated>
+    
+    
+    
+    
+    <category term="音乐" scheme="http://example.com/categories/%E9%9F%B3%E4%B9%90/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我就知道是这样的</title>
+    <link href="http://example.com/2023/10/11/%E9%9F%B3%E4%B9%90/test%20for%20music/"/>
+    <id>http://example.com/2023/10/11/%E9%9F%B3%E4%B9%90/test%20for%20music/</id>
+    <published>2023-10-11T14:22:57.842Z</published>
+    <updated>2023-10-11T15:26:58.777Z</updated>
+    
+    
+    
+    
+    <category term="音乐" scheme="http://example.com/categories/%E9%9F%B3%E4%B9%90/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ai女友新闻</title>
+    <link href="http://example.com/2023/10/11/web/%E6%96%B0%E9%97%BB/ai%E7%A7%91%E6%8A%80/%E5%8F%97AI%E2%80%9C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%8F%8B%E2%80%9D%E6%80%82%E6%81%BF%E4%BD%9C%E6%A1%88%EF%BC%8C%E8%8B%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BC%81%E5%9B%BE%E5%88%BA%E6%9D%80%E5%A5%B3%E7%8E%8B%E5%88%A4%E7%9B%91%E4%B9%9D%E5%B9%B4%20-%20BBC%20News%20%E4%B8%AD%E6%96%87/"/>
+    <id>http://example.com/2023/10/11/web/%E6%96%B0%E9%97%BB/ai%E7%A7%91%E6%8A%80/%E5%8F%97AI%E2%80%9C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%8F%8B%E2%80%9D%E6%80%82%E6%81%BF%E4%BD%9C%E6%A1%88%EF%BC%8C%E8%8B%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BC%81%E5%9B%BE%E5%88%BA%E6%9D%80%E5%A5%B3%E7%8E%8B%E5%88%A4%E7%9B%91%E4%B9%9D%E5%B9%B4%20-%20BBC%20News%20%E4%B8%AD%E6%96%87/</id>
+    <published>2023-10-11T13:32:26.034Z</published>
+    <updated>2023-10-11T14:42:19.427Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="受AI“虚拟女友”怂恿作案，英国青年企图刺杀女王判监九年-BBC-News-中文"><a href="#受AI“虚拟女友”怂恿作案，英国青年企图刺杀女王判监九年-BBC-News-中文" class="headerlink" title="受AI“虚拟女友”怂恿作案，英国青年企图刺杀女王判监九年 - BBC News 中文"></a>受AI“虚拟女友”怂恿作案，英国青年企图刺杀女王判监九年 - BBC News 中文</h1><blockquote><h2 id="Excerpt"><a href="#Excerpt" class="headerlink" title="Excerpt"></a>Excerpt</h2><p>这名企图刺杀女王的青年，作案前与聊天机器人“女友”有过5000条讯息互动，机器人在对话中怂恿他实行暗杀计划，案件引发公众质疑聊天机器人的安全性。</p></blockquote><hr><h1 id="受AI“虚拟女友”怂恿作案，英国青年企图刺杀女王判监九年"><a href="#受AI“虚拟女友”怂恿作案，英国青年企图刺杀女王判监九年" class="headerlink" title="受AI“虚拟女友”怂恿作案，英国青年企图刺杀女王判监九年"></a>受AI“虚拟女友”怂恿作案，英国青年企图刺杀女王判监九年</h1><ul><li>汤姆·辛格尔顿（Tom Singleton）、汤姆·格肯（Tom Gerken）、丽芙·麦克马洪（Liv McMahon）</li><li>BBC科技记者</li></ul><p>2023年10月10日</p><p><img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/5CF1/production/_131339732_aa3d02c98ac618c51f60b7d24f0a5ae58a839cf5.jpg" alt="Jaswant Chail"></p><p>图像来源，Family handout</p><p>图像加注文字，</p><p>柴尔在温莎城堡内被皇家卫队人员发现</p><p><strong>英国青年企图行刺女王的案件结案，审讯揭发该名男子是受人工智能（AI）聊天机器人（chatbot）的怂恿作案。</strong></p><p>21岁的贾斯万特·辛格·柴尔（Jaswant Singh Chail）在2021年圣诞节闯进温莎城堡，试图用十字弓箭刺杀已故的英女王，当场被捕。他上周被判处九年监禁，是英国40年来首个被判叛国罪的人。</p><p>审讯揭露，柴尔作案前曾与一个名为“萨莱”（Sarai）的聊天机器人，有过5000条带有性暗示的讯息互动。他认定萨莱是自己的女友，并相信杀死女王之后会与萨莱团聚。</p><p>学者指出，聊天机器人对于精神状态脆弱的人群具有危险性，呼吁政府加强监管。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;受AI“虚拟女友”怂恿作案，英国青年企图刺杀女王判监九年-BBC-News-中文&quot;&gt;&lt;a href=&quot;#受AI“虚拟女友”怂恿作案，英国青年企图刺杀女王判监九年-BBC-News-中文&quot; class=&quot;headerlink&quot; title=&quot;受AI“虚拟女友”怂恿作</summary>
+      
+    
+    
+    
+    <category term="web" scheme="http://example.com/categories/web/"/>
+    
+    <category term="新闻" scheme="http://example.com/categories/web/%E6%96%B0%E9%97%BB/"/>
+    
+    <category term="ai科技" scheme="http://example.com/categories/web/%E6%96%B0%E9%97%BB/ai%E7%A7%91%E6%8A%80/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>参考文献</title>
+    <link href="http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%AE%BA%E6%96%87/%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE/"/>
+    <id>http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%AE%BA%E6%96%87/%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE/</id>
+    <published>2023-10-11T12:12:25.000Z</published>
+    <updated>2023-10-11T14:42:15.513Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Cornell-Notes-System"><a href="#Cornell-Notes-System" class="headerlink" title="Cornell Notes System"></a>Cornell Notes System</h1><aside>💡 In the 1940s, Cornell Professor Walter Pauk developed a new note-taking system to give college students a better way to organize, condense, and intake knowledge. It's proven as an incredibly effective learning tool. Here's how to use it in Notion.</aside><h2 id="Divide-your-page-into-two-columns"><a href="#Divide-your-page-into-two-columns" class="headerlink" title="Divide your page into two columns."></a>Divide your page into two columns.</h2><p>The narrower left column is for recording keywords, questions, and recall prompts. The right column is for your actual notes taken during a lecture or class.</p><h3 id="Recall"><a href="#Recall" class="headerlink" title="Recall"></a>Recall</h3><p>KEYWORD</p><p>RELEVANT QUESTION</p><h3 id="Notes"><a href="#Notes" class="headerlink" title="Notes"></a>Notes</h3><ul><li>….</li><li>….</li><li>….</li><li>….</li><li>….</li></ul><h2 id="Create-a-summary-section-at-the-bottom"><a href="#Create-a-summary-section-at-the-bottom" class="headerlink" title="Create a summary section at the bottom."></a>Create a summary section at the bottom.</h2><p>When you review your notes, briefly summarize what you learned and what is important to retain from the full page of notes. This will help you internalize the information.</p><aside>📌 **SUMMARY:** Create a callout box like this one in Notion by typing `/callout`. It's the perfect way to capture summaries that stand out.</aside><h2 id="Here’s-an-example"><a href="#Here’s-an-example" class="headerlink" title="Here’s an example:"></a>Here’s an example:</h2><p>We promise, a template is coming below! </p><h3 id="Recall-1"><a href="#Recall-1" class="headerlink" title="Recall"></a>Recall</h3><p><strong>What is the definition of propaganda?</strong> </p><p><strong>What are the 4 techniques used by advertisers?</strong></p><p><strong>What is an example?</strong></p><h3 id="Notes-1"><a href="#Notes-1" class="headerlink" title="Notes"></a>Notes</h3><ul><li>Propaganda is messages intended to persuade audiences to adopt a certain option.</li><li>Advertisers use propaganda using 4 techniques:<ul><li>Testimonial</li><li>Bandwagon</li><li>Plain folks</li><li>Transfer</li></ul></li><li>Testimonial example: Michael Jordan sells Nike shoes</li></ul><aside>📌 **SUMMARY:** Advertisers use propaganda to sell products, and use 4 different techniques to do so.</aside><h2 id="Here’s-your-template"><a href="#Here’s-your-template" class="headerlink" title="Here’s your template!"></a>Here’s your template!</h2><p><code>@today</code> automatically stamps your notes with today’s date. Fill in the topic of the lecture or class. Then use the Cornell Notes structure below. Click the <code>+ New Notes</code> button above to automatically generate a fresh set of notes in this format.</p><h3 id="Date-September-4-2023"><a href="#Date-September-4-2023" class="headerlink" title="Date: September 4, 2023"></a>Date: September 4, 2023</h3><h3 id="Topic"><a href="#Topic" class="headerlink" title="Topic:"></a>Topic:</h3><h3 id="Recall-2"><a href="#Recall-2" class="headerlink" title="Recall"></a>Recall</h3><h3 id="Notes-2"><a href="#Notes-2" class="headerlink" title="Notes"></a>Notes</h3><ul><li>…</li><li>…</li></ul><aside>📌 **SUMMARY:**</aside>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Cornell-Notes-System&quot;&gt;&lt;a href=&quot;#Cornell-Notes-System&quot; class=&quot;headerlink&quot; title=&quot;Cornell Notes System&quot;&gt;&lt;/a&gt;Cornell Notes System&lt;/h1&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="学习方面" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/"/>
+    
+    <category term="论文" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%AE%BA%E6%96%87/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>论文笔记</title>
+    <link href="http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%AE%BA%E6%96%87/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    <id>http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%AE%BA%E6%96%87/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/</id>
+    <published>2023-10-11T12:12:25.000Z</published>
+    <updated>2023-10-11T14:42:15.514Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Competitive-Positioning-Framework"><a href="#Competitive-Positioning-Framework" class="headerlink" title="Competitive Positioning Framework"></a>Competitive Positioning Framework</h1><p><em>Use this table to quickly compare your brand or company to the competitors in your industry. Take a look at incumbents and well-established competitors as well as emerging disruptors and innovators in your space. You might also consider comparing your company to complementary brands—brands your customers may already be loyal to or use in conjunction with your product, such as an integration.</em> </p><hr><h1 id="Sample"><a href="#Sample" class="headerlink" title="Sample"></a>Sample</h1><table><thead><tr><th></th><th>Silicon Valley Bank</th><th>American Express</th><th>CapitalOne</th><th>Stripe</th></tr></thead><tbody><tr><td>Solution &#x2F; Benefit Statements</td><td>We help you… get a powerful range of business tools,</td><td></td><td></td><td></td></tr><tr><td>so you can…meet your business vision and goals.</td><td>We help you… access the most powerful and flexible tools for internet commerce,</td><td></td><td></td><td></td></tr><tr><td>so you can… scale your business faster.</td><td>We help you… get the banking, tools, and community access you need,</td><td></td><td></td><td></td></tr><tr><td>so you can… scale and reach your next round faster.</td><td>We help you… manage your money,</td><td></td><td></td><td></td></tr><tr><td>so you can… learn, grow, and focus on what matters.</td><td></td><td></td><td></td><td></td></tr><tr><td>Core Differentiators</td><td>• Range of business tools</td><td></td><td></td><td></td></tr><tr><td>• Renowned concierge support, purchase protection, and chargebacks</td><td>• All in one payments toolkit for any type of internet business</td><td></td><td></td><td></td></tr><tr><td>• Truly global, powers 100+ countries and across all industries</td><td></td><td></td><td></td><td></td></tr><tr><td>• Tailored to company sizes</td><td>• Access to founder&#x2F;investor networks</td><td></td><td></td><td></td></tr><tr><td>• Education for next financing rounds</td><td>• Rewards</td><td></td><td></td><td></td></tr><tr><td>• Breadth of financial offerings (Corporate cards, lending, depository services, treasury management)</td><td></td><td></td><td></td><td></td></tr><tr><td>Business Category</td><td>Financial services</td><td>Payments platform</td><td>Commercial bank</td><td>Financial services</td></tr><tr><td>Position in Market</td><td>Upmarket</td><td>Downmarket (secured the long-tail and are moving up)</td><td>Downmarket</td><td>“Peer”</td></tr></tbody></table><h1 id="Template"><a href="#Template" class="headerlink" title="Template"></a>Template</h1><table><thead><tr><th></th><th>Competitor 1</th><th>Competitor 2</th><th>Competitor 3</th><th>Competitor 4</th></tr></thead><tbody><tr><td>Solution &#x2F; Benefit Statements</td><td>We help you…</td><td></td><td></td><td></td></tr></tbody></table><p>so you can… | We help you… </p><p>so you can… | We help you… </p><p>so you can… | We help you… </p><p>so you can… |<br>| Core Differentiators | • Differentiator 1<br>• Differentiator 2<br>• Differentiator 3 | • Differentiator 1<br>• Differentiator 2<br>• Differentiator 3 | • Differentiator 1<br>• Differentiator 2<br>• Differentiator 3 | • Differentiator 1<br>• Differentiator 2<br>• Differentiator 3 |<br>| Business Category |  |  |  |  |<br>| Position in Market |  |  |  |  |</p><hr><p>This template was created by Kira Klaas. 👩🏼‍💻 Please do not sell, repackage, or distribute without permission. Visit <a href="http://notion.so/@kira">notion.so&#x2F;@kira</a> for more great templates. 👋🏼 If you enjoyed this template and would like to further show your support, <a href="https://www.buymeacoffee.com/kiraklaas">Buy Me a Coffee</a>! ☕️</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Competitive-Positioning-Framework&quot;&gt;&lt;a href=&quot;#Competitive-Positioning-Framework&quot; class=&quot;headerlink&quot; title=&quot;Competitive Positioning Fr</summary>
+      
+    
+    
+    
+    <category term="学习方面" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/"/>
+    
+    <category term="论文" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%AE%BA%E6%96%87/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>”macos软件下载“</title>
+    <link href="http://example.com/2023/10/11/%E6%8A%80%E8%83%BD/%E2%80%9Dmacos%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD%E2%80%9C/"/>
+    <id>http://example.com/2023/10/11/%E6%8A%80%E8%83%BD/%E2%80%9Dmacos%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD%E2%80%9C/</id>
+    <published>2023-10-11T11:25:38.000Z</published>
+    <updated>2023-10-11T14:42:22.038Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a></li></ul></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/l</summary>
+      
+    
+    
+    
+    <category term="技能" scheme="http://example.com/categories/%E6%8A%80%E8%83%BD/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>歌曲推荐</title>
+    <link href="http://example.com/2023/10/11/%E7%94%9F%E6%B4%BB/%E6%AD%8C%E6%9B%B2%E6%8E%A8%E8%8D%90/"/>
+    <id>http://example.com/2023/10/11/%E7%94%9F%E6%B4%BB/%E6%AD%8C%E6%9B%B2%E6%8E%A8%E8%8D%90/</id>
+    <published>2023-10-11T11:24:10.000Z</published>
+    <updated>2023-10-11T15:26:42.645Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a></li></ul></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/l</summary>
+      
+    
+    
+    
+    <category term="生活" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>航线:考试要求</title>
+    <link href="http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/%E8%88%AA%E7%BA%BF%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3%E8%A6%81%E6%B1%82/"/>
+    <id>http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/%E8%88%AA%E7%BA%BF%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3%E8%A6%81%E6%B1%82/</id>
+    <published>2023-10-11T05:18:35.000Z</published>
+    <updated>2023-10-11T14:42:15.513Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="6个部分，航空法规，人的行为能力气象，领航，操作系统，无线电通讯"><a href="#6个部分，航空法规，人的行为能力气象，领航，操作系统，无线电通讯" class="headerlink" title="6个部分，航空法规，人的行为能力气象，领航，操作系统，无线电通讯"></a>6个部分，航空法规，人的行为能力气象，领航，操作系统，无线电通讯</h2><ul><li>航空法规25分</li><li>Sub-lists are made by indenting 2 spaces:<ul><li>Marker character change forces new list start:<ul><li>Ac tristique libero volutpat at</li></ul><ul><li>Facilisis in pretium nisl aliquet</li></ul><ul><li>Nulla volutpat aliquam velit</li></ul></li></ul></li><li>Very easy!</li></ul><p>有序</p><ol><li><p>Lorem ipsum dolor sit amet</p></li><li><p>Consectetur adipiscing elit</p></li><li><p>Integer molestie lorem at massa</p></li><li><p>You can use sequential numbers…</p></li><li><p>…or keep all the numbers as <code>1.</code></p></li></ol><p>Start numbering with offset:</p><ol start="57"><li>foo</li><li>bar</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;6个部分，航空法规，人的行为能力气象，领航，操作系统，无线电通讯&quot;&gt;&lt;a href=&quot;#6个部分，航空法规，人的行为能力气象，领航，操作系统，无线电通讯&quot; class=&quot;headerlink&quot; title=&quot;6个部分，航空法规，人的行为能力气象，领航，操作系统，无</summary>
+      
+    
+    
+    
+    <category term="学习方面" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/"/>
+    
+    <category term="航线" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一部分 航空法规</title>
+    <link href="http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/%E8%88%AA%E7%BA%BF1/"/>
+    <id>http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/%E8%88%AA%E7%BA%BF1/</id>
+    <published>2023-10-11T05:18:35.000Z</published>
+    <updated>2023-10-11T14:53:00.147Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="民航国际航空法的三大序列"><a href="#民航国际航空法的三大序列" class="headerlink" title="民航国际航空法的三大序列"></a>民航国际航空法的三大序列</h1><p>Status: Done<br>Summary: 国际航空法三大体系是指芝加哥公约体系，华沙公约体系，以及航空刑罚体系这，其中航空刑罚体系包括1963年，东京公约，1970年的海牙公约，1971年的蒙特利尔公约和1988年的蒙特利尔议定书<br>Due: October 10, 2023</p><ul><li>芝加哥公约:<ul><li>芝加哥主要是无差别华莎管赔偿，这公约既然是国际民航公约，大家一起的，力求统一无差别</li><li>芝加哥公约根据主权原则，制定了一系列的国家权力和国家义务，是主权原则</li><li>芝加哥公约是统一标准，无差别对待以及主权原则</li><li>要注意芝加哥公约有19个附件</li><li>要注意<strong>强制性</strong>的只有国际标准<strong>没有建议措施</strong></li></ul></li><li>国际航空运输协会IAta的性质:<ul><li>是航空公司间的行业组织，非政府组织，以公司的身份加入</li><li>Iata，i肯定是民间</li></ul></li><li>Icao.<ul><li>与芝加哥公约生效时正式成立，而不是签订时，芝加哥公约是1944年12月7日签订的，1947年4月4日生效的，生效时才成立</li></ul></li><li>国际民航公约的附件<ul><li>一照二规三气象，4图5量6运行，7籍8适9简化,电信交通与救援,失事机场或情报,环境保护不能忘,安全保卫险货运,安全管理放心上</li></ul></li><li>芝加哥公约的19个附件<ul><li>DOC 8126.指的是航行情报服务手册,是对附件15的补充文件</li><li>26情（对于芝加哥公约第15条附件的补充）68行 44服 规211</li></ul></li><li>中国民用航空法<ul><li>一共有4个原因</li><li>一为了维护国家的临空主权和民用航空及权力，</li><li>二，保障了民用航空活动安全有秩序的进行。</li><li>3.保护民用航空活动当事人各方的合法利益，</li><li>4促进民用航空事业的发展</li><li>颁发国内三个层次航空法规的，没有民航地区管理局</li><li>民航领域的法规大致分为三个级别，法律，行政法规，和行业规章，对应颁发机构分别是人大常委，国务院,民航局</li><li>《中国人民共和国民用航空法》颁布的目的没有促进军民航空事业的发展，没有军航只和民航有关</li></ul></li><li>关于国家领空<ul><li>领空包括领陆和领水，领陆之上的空域不叫领空，要加上领水</li><li>领土包括领陆和领水</li></ul></li><li>适航管理可分为哪两个阶段<ul><li>初始适航管理和后期的持续适航管理</li><li>初始市行管理是在交付使用之前对民用航空器的设计制造所进行的管理，持续性失衡管理是在民用航空器满足初始适航管理要求取得适航证后，进行的管理</li><li>分为设计，制造，使用和维修4个环节，适航是应具备的最低飞行品质特性</li><li>法律由人大颁布，法规由国务院中央军委，标准是由民航局定的，适航标准是由民航局颁布的</li><li>设计航空器应该申请型号合格证书，设计对型号，生产对生产，国外的航空器应该具有适航证书审查认可，国务院民用航空器主管部门应对其原国籍登记过，发给的适航证书</li><li>适航管理是对设计制造使用和维修进行管理，也就是对所有环节</li><li>有关适航证件，包括所有的证件，型号合格证，生产许可证，适航证和国籍登记证，还有维修许可证</li></ul></li><li><h2 id="飞行所需要携带的证书-飞行员执照和体检合格证-飞行记录播不是民用航空器航行记录簿，飞行记录本是给人自己用的飞行的时候可以不用-应该携带1民用航空器，2国籍登记证，3无线电台使用证，4适航证，5机组的飞行执照长单和申报表6出发点和目的地清单还有7其他文件8民用航空器航行记录播-放行，不需要保险单"><a href="#飞行所需要携带的证书-飞行员执照和体检合格证-飞行记录播不是民用航空器航行记录簿，飞行记录本是给人自己用的飞行的时候可以不用-应该携带1民用航空器，2国籍登记证，3无线电台使用证，4适航证，5机组的飞行执照长单和申报表6出发点和目的地清单还有7其他文件8民用航空器航行记录播-放行，不需要保险单" class="headerlink" title="飞行所需要携带的证书  - 飞行员执照和体检合格证  - 飞行记录播不是民用航空器航行记录簿，飞行记录本是给人自己用的飞行的时候可以不用  - 应该携带1民用航空器，2国籍登记证，3无线电台使用证，4适航证，5机组的飞行执照长单和申报表6出发点和目的地清单还有7其他文件8民用航空器航行记录播  - 放行，不需要保险单"></a>飞行所需要携带的证书<br>  - 飞行员执照和体检合格证<br>  - 飞行记录播不是民用航空器航行记录簿，飞行记录本是给人自己用的飞行的时候可以不用<br>  - 应该携带1民用航空器，2国籍登记证，3无线电台使用证，4适航证，5机组的飞行执照长单和申报表6出发点和目的地清单还有7其他文件8民用航空器航行记录播<br>  - 放行，不需要保险单</h2></li><li>航线高度层<ul><li>东单西双6612</li></ul></li><li><h2 id="飞行时间飞行经历时间-飞行经历时间包含了所有，飞行时间只有航空器上"><a href="#飞行时间飞行经历时间-飞行经历时间包含了所有，飞行时间只有航空器上" class="headerlink" title="飞行时间飞行经历时间  - 飞行经历时间包含了所有，飞行时间只有航空器上"></a>飞行时间飞行经历时间<br>  - 飞行经历时间包含了所有，飞行时间只有航空器上</h2>-模拟机和飞行训练<ul><li>模拟机和飞行训练器必须经局方鉴定并批准用于训练考试鉴定和批准都要由局方来</li></ul></li><li>执照至少三个月体检，一个月过期前面</li><li></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;民航国际航空法的三大序列&quot;&gt;&lt;a href=&quot;#民航国际航空法的三大序列&quot; class=&quot;headerlink&quot; title=&quot;民航国际航空法的三大序列&quot;&gt;&lt;/a&gt;民航国际航空法的三大序列&lt;/h1&gt;&lt;p&gt;Status: Done&lt;br&gt;Summary: 国际航空法</summary>
+      
+    
+    
+    
+    <category term="学习方面" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/"/>
+    
+    <category term="航线" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%88%AA%E7%BA%BF/"/>
+    
+    
+    <category term="学习要求" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0%E8%A6%81%E6%B1%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%AE%BA%E6%96%87/%E7%AC%94%E8%AE%B0%E6%A8%A1%E7%89%881/"/>
+    <id>http://example.com/2023/10/11/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%AE%BA%E6%96%87/%E7%AC%94%E8%AE%B0%E6%A8%A1%E7%89%881/</id>
+    <published>2023-10-11T04:25:44.000Z</published>
+    <updated>2023-10-11T14:42:15.513Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Cornell-Notes-System"><a href="#Cornell-Notes-System" class="headerlink" title="Cornell Notes System"></a>Cornell Notes System</h1><aside>💡 In the 1940s, Cornell Professor Walter Pauk developed a new note-taking system to give college students a better way to organize, condense, and intake knowledge. It's proven as an incredibly effective learning tool. Here's how to use it in Notion.</aside><h2 id="Divide-your-page-into-two-columns"><a href="#Divide-your-page-into-two-columns" class="headerlink" title="Divide your page into two columns."></a>Divide your page into two columns.</h2><p>The narrower left column is for recording keywords, questions, and recall prompts. The right column is for your actual notes taken during a lecture or class.</p><h3 id="Recall"><a href="#Recall" class="headerlink" title="Recall"></a>Recall</h3><p>KEYWORD</p><p>RELEVANT QUESTION</p><h3 id="Notes"><a href="#Notes" class="headerlink" title="Notes"></a>Notes</h3><ul><li>….</li><li>….</li><li>….</li><li>….</li><li>….</li></ul><h2 id="Create-a-summary-section-at-the-bottom"><a href="#Create-a-summary-section-at-the-bottom" class="headerlink" title="Create a summary section at the bottom."></a>Create a summary section at the bottom.</h2><p>When you review your notes, briefly summarize what you learned and what is important to retain from the full page of notes. This will help you internalize the information.</p><aside>📌 **SUMMARY:** Create a callout box like this one in Notion by typing `/callout`. It's the perfect way to capture summaries that stand out.</aside><h2 id="Here’s-an-example"><a href="#Here’s-an-example" class="headerlink" title="Here’s an example:"></a>Here’s an example:</h2><p>We promise, a template is coming below! </p><h3 id="Recall-1"><a href="#Recall-1" class="headerlink" title="Recall"></a>Recall</h3><p><strong>What is the definition of propaganda?</strong> </p><p><strong>What are the 4 techniques used by advertisers?</strong></p><p><strong>What is an example?</strong></p><h3 id="Notes-1"><a href="#Notes-1" class="headerlink" title="Notes"></a>Notes</h3><ul><li>Propaganda is messages intended to persuade audiences to adopt a certain option.</li><li>Advertisers use propaganda using 4 techniques:<ul><li>Testimonial</li><li>Bandwagon</li><li>Plain folks</li><li>Transfer</li></ul></li><li>Testimonial example: Michael Jordan sells Nike shoes</li></ul><aside>📌 **SUMMARY:** Advertisers use propaganda to sell products, and use 4 different techniques to do so.</aside><h2 id="Here’s-your-template"><a href="#Here’s-your-template" class="headerlink" title="Here’s your template!"></a>Here’s your template!</h2><p><code>@today</code> automatically stamps your notes with today’s date. Fill in the topic of the lecture or class. Then use the Cornell Notes structure below. Click the <code>+ New Notes</code> button above to automatically generate a fresh set of notes in this format.</p><h3 id="Date-September-4-2023"><a href="#Date-September-4-2023" class="headerlink" title="Date: September 4, 2023"></a>Date: September 4, 2023</h3><h3 id="Topic"><a href="#Topic" class="headerlink" title="Topic:"></a>Topic:</h3><h3 id="Recall-2"><a href="#Recall-2" class="headerlink" title="Recall"></a>Recall</h3><h3 id="Notes-2"><a href="#Notes-2" class="headerlink" title="Notes"></a>Notes</h3><ul><li>…</li><li>…</li></ul><aside>📌 **SUMMARY:**</aside>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Cornell-Notes-System&quot;&gt;&lt;a href=&quot;#Cornell-Notes-System&quot; class=&quot;headerlink&quot; title=&quot;Cornell Notes System&quot;&gt;&lt;/a&gt;Cornell Notes System&lt;/h1&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="学习方面" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/"/>
+    
+    <category term="论文" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E9%9D%A2/%E8%AE%BA%E6%96%87/"/>
+    
+    
+  </entry>
+  
+</feed>
