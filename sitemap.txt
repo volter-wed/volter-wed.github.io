@@ -37,9 +37,9 @@ http://example.com/categories/web/
 http://example.com/categories/%E4%B8%8D%E5%87%8F%E5%BD%93%E5%B9%B4/
 http://example.com/categories/%E7%94%9F%E6%B4%BB/%E7%94%B5%E5%BD%B1/
 http://example.com/categories/web/%E6%96%B0%E9%97%BB/
-http://example.com/categories/%E4%B8%8D%E5%87%8F%E5%BD%93%E5%B9%B4/%E8%8B%B9%E6%9E%9C/
 http://example.com/categories/%E4%B8%8D%E5%87%8F%E5%BD%93%E5%B9%B4/%E7%B4%A2%E5%B0%BC/
+http://example.com/categories/%E4%B8%8D%E5%87%8F%E5%BD%93%E5%B9%B4/%E8%8B%B9%E6%9E%9C/
 http://example.com/categories/web/%E6%96%B0%E9%97%BB/ai%E7%A7%91%E6%8A%80/
 http://example.com/categories/web/%E6%96%B0%E9%97%BB/%E6%B0%91%E8%88%AA%E6%96%B0%E9%97%BB/
-http://example.com/categories/%E4%B8%8D%E5%87%8F%E5%BD%93%E5%B9%B4/%E8%8B%B9%E6%9E%9C/MacBook%E5%8E%86%E4%BB%A3/
 http://example.com/categories/%E4%B8%8D%E5%87%8F%E5%BD%93%E5%B9%B4/%E7%B4%A2%E5%B0%BC/%E9%9A%8F%E5%A3%B0%E5%90%AC/
+http://example.com/categories/%E4%B8%8D%E5%87%8F%E5%BD%93%E5%B9%B4/%E8%8B%B9%E6%9E%9C/MacBook%E5%8E%86%E4%BB%A3/

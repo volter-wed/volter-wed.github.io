@@ -323,14 +323,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E4%B8%8D%E5%87%8F%E5%BD%93%E5%B9%B4/%E8%8B%B9%E6%9E%9C/</loc>
+    <loc>http://example.com/categories/%E4%B8%8D%E5%87%8F%E5%BD%93%E5%B9%B4/%E7%B4%A2%E5%B0%BC/</loc>
     <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E4%B8%8D%E5%87%8F%E5%BD%93%E5%B9%B4/%E7%B4%A2%E5%B0%BC/</loc>
+    <loc>http://example.com/categories/%E4%B8%8D%E5%87%8F%E5%BD%93%E5%B9%B4/%E8%8B%B9%E6%9E%9C/</loc>
     <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -351,14 +351,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E4%B8%8D%E5%87%8F%E5%BD%93%E5%B9%B4/%E8%8B%B9%E6%9E%9C/MacBook%E5%8E%86%E4%BB%A3/</loc>
+    <loc>http://example.com/categories/%E4%B8%8D%E5%87%8F%E5%BD%93%E5%B9%B4/%E7%B4%A2%E5%B0%BC/%E9%9A%8F%E5%A3%B0%E5%90%AC/</loc>
     <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E4%B8%8D%E5%87%8F%E5%BD%93%E5%B9%B4/%E7%B4%A2%E5%B0%BC/%E9%9A%8F%E5%A3%B0%E5%90%AC/</loc>
+    <loc>http://example.com/categories/%E4%B8%8D%E5%87%8F%E5%BD%93%E5%B9%B4/%E8%8B%B9%E6%9E%9C/MacBook%E5%8E%86%E4%BB%A3/</loc>
     <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
